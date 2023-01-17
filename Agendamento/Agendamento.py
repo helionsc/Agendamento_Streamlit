@@ -35,7 +35,7 @@ if menu == 'Inicio':
 
 
 
-if menu == 'Vendas':
+if menu == 'Venda':
     st.title('Teste Vendas')
 
 
